@@ -9,7 +9,7 @@ public class SortArray {
 
         sortArray(data);    //[3, 8, 12, 13, 13, 24, 42, 44, 53, 67]
 
-        sortArray02(data);    //[3, 8, 12, 13, 13, 24, 42, 44, 53, 67]  for git
+        sortArray02(data);    //[3, 8, 12, 13, 13, 24, 42, 44, 53, 67]  for git  aaaa
     }
 
     public static void sortArray(int data[]){
